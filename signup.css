@@ -1,0 +1,16 @@
+.maindiv
+{    
+    background-color:white;
+    color:rgb(184, 12, 12);
+    margin-top:50px;
+    border-radius:10px;
+  }
+
+  .signbutton
+  {
+        background-color:rgb(184, 12, 12);
+        color:white;
+        margin-bottom:20px;
+  }
+
+

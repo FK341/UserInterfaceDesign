@@ -1,0 +1,149 @@
+
+.nav
+{
+margin-top:80px;
+margin-bottom:0px;
+}
+
+
+.navbar{
+  margin-top:10px;
+    margin-bottom:10px;
+    letter-spacing:2px;
+    font-size:30px;
+  }
+
+
+ .panel1
+{
+ width:353px;
+ height:531px ;
+ }
+
+.Packets
+{
+  color:white;
+}
+#packets
+{
+background-image: url(background1.png);
+}
+
+#packetsbody
+{
+  color:rgb(25, 0, 139);
+  font-size:30px;
+ background-image:url(backgroundbody1.png);
+ text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+.footer
+{
+  background-color:#E79215;
+}
+.hr1
+{margin-top:2px;
+  color:#E79215;
+  background-color:#E79215;
+}
+
+.img{
+  width:100%;
+  
+}
+
+#dramamovie
+{
+background-image:url(BACKGROUND.png);
+}
+
+.Drama
+{color:white;}
+
+.movieimage{
+  width: 307px; 
+  height: 453px; 
+}
+
+
+.Crime{
+  color:red;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:#E79215;
+  color:#E79215;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color:#E79215;
+}
+#crimemovie
+{
+background-image:url(background2.png);
+}
+
+.dramahead
+{
+  text-align:left;
+color:white;
+}
+.crimehead
+{
+  text-align:left;
+   color:black;
+}
+
+#youmightlike{
+
+ 
+  background-image:url(youmıghtlıkebackground.png);
+}
+
+
+.a
+{
+color:white;
+
+font-size: 30px;
+
+}
+
+.crimehead
+{
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.youmıghtlıkehead
+{
+  text-align:left;
+  color:black;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.dramahead
+{
+  color:black;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}

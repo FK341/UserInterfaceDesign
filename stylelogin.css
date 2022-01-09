@@ -1,0 +1,24 @@
+.maindiv
+{
+  background-color:white;
+  margin-top:50px;
+  border-radius:10px;
+}
+
+.logIn
+{
+    color:#E79215;
+}
+
+.loginbutton
+{
+background-color:#E79215;
+color:white;
+}
+
+.checkbox
+{
+
+padding-left: 20px;
+
+}
